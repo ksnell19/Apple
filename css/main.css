@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+}
+.navbar {
+  font-family: "SF Pro Text","Myriad Set Pro","Arial",sans-serif;
+  font-size: 17px;
+  background-color: #333333;
+  color: white;
+  height: 48px;
+
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+
+}
+li {
+  color: white;
+  display: inline-block;
+  width: 10px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-bottom: 25px;
+  margin-left: 20px;
+
+}
+a {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  padding-left: 50px;
+  padding-bottom: 25px;
+  margin-left: 20px;
+}
+
+h2 {
+  font-family: "SF Pro Text","Myriad Set Pro","Arial",sans-serif;
+  text-align: center;
+  font-size: 56px;
+  margin-top: 50px;
+  letter-spacing: -.05px;
+}
+h3 {
+  font-family: "SF Pro Text","Myriad Set Pro","Arial",sans-serif;
+  font-weight: normal;
+  font-size: 27px;
+  text-align: center;
+  margin-top: -40px;
+  letter-spacing: -.05px;
+}
+.PinkBox {
+  background-color: #ffe6cc;
+  padding-top: 01px;
+  padding-bottom: 350px;
+}
